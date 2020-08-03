@@ -5,3 +5,4 @@
     Specifically, it’s to predict user preference for a set of items based on past experience.
     To build a recommender system, the most common approches are using correlations,content based filering,collaborative filtering based on type of problem.
 
+![](image1)
